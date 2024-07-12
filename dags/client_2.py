@@ -6,9 +6,12 @@ from datetime import datetime
 from airflow.decorators import task, dag
 
 with DAG(
-        dag_id="client_2_hetdev", start_date=datetime(2022, 1, 1),
-        schedule="0 0 * * *", tags=["hetdev"],
+    dag_id="client_2_hetdev",
+    start_date=datetime(2022, 1, 1),
+    schedule="0 0 * * *",
+    tags=["hetdev"],
 ):
+
     @task()
     def extract():
         """
@@ -16,7 +19,7 @@ with DAG(
         Extract task get the data['results'] from input/data.json
         """
 
-        json_file = open('./input/data.json')
+        json_file = open("./input/data.json")
 
         # returns JSON object as
         # a dictionary
@@ -25,8 +28,7 @@ with DAG(
         # Closing file
         json_file.close()
 
-        return data_dict['results']
-
+        return data_dict["results"]
 
     @task(multiple_outputs=True)
     def transform(data_list: list):
@@ -39,7 +41,7 @@ with DAG(
         films = []
 
         def filter_by_year(item):
-            year = int(((item['year']).split(' '))[0])
+            year = int(((item["year"]).split(" "))[0])
             if year > 1994:
                 return True
             else:
@@ -47,10 +49,9 @@ with DAG(
 
         for item in data_list_iterator:
             if filter_by_year(item):
-                films = films + item['films']
+                films = films + item["films"]
 
         return {"films": films}
-
 
     @task()
     def load(data: dict):
@@ -59,13 +60,18 @@ with DAG(
         Load task to save the data as a client_2.csv file
         """
 
-        fields = ['Detail URL', 'Film', 'Producer(s)', 'Production Company(s)',
-                  'Wiki URL',
-                  'Winner']
+        fields = [
+            "Detail URL",
+            "Film",
+            "Producer(s)",
+            "Production Company(s)",
+            "Wiki URL",
+            "Winner",
+        ]
 
         # name of csv file
         filepath = "./output/client_2.csv"
-        with open(filepath, 'w') as csvfile:
+        with open(filepath, "w") as csvfile:
             # creating a csv dict writer object
             writer = csv.DictWriter(csvfile, fieldnames=fields)
 
@@ -73,10 +79,9 @@ with DAG(
             writer.writeheader()
 
             # writing data rows
-            writer.writerows(data['films'])
+            writer.writerows(data["films"])
 
             return
-
 
     data_dict = extract()
     films_data = transform(data_dict)
