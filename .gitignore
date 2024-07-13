@@ -1,2 +1,8 @@
 
 .idea/*
+logs/*
+standalone_admin_password.txt
+webserver_config.py
+airflow.db
+airflow-webserver.pid
+airflow.cfg

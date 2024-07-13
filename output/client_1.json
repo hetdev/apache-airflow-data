@@ -1,1 +1,700 @@
-{}
+{
+    "winners": [
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Wings_(1927_film)",
+            "Film": "Wings",
+            "Producer(s)": "Lucien Hubbard",
+            "Production Company(s)": "Paramount , Famous Players-Lasky",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Wings_(1927_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Broadway_Melody",
+            "Film": "The Broadway Melody",
+            "Producer(s)": "Irving Thalberg & Lawrence Weingarten",
+            "Production Company(s)": "Metro-Goldwyn-Mayer  [L]",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Broadway_Melody",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/All_Quiet_on_the_Western_Front_(1930_film)",
+            "Film": "All Quiet on the Western Front",
+            "Producer(s)": "Carl Laemmle, Jr.",
+            "Production Company(s)": "Universal",
+            "Wiki URL": "http://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Cimarron_(1931_film)",
+            "Film": "Cimarron",
+            "Producer(s)": "William LeBaron",
+            "Production Company(s)": "RKO Radio",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Cimarron_(1931_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Grand_Hotel_(film)",
+            "Film": "Grand Hotel",
+            "Producer(s)": "Irving Thalberg",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Grand_Hotel_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Cavalcade_(1933_film)",
+            "Film": "Cavalcade  [H]",
+            "Producer(s)": "Winfield Sheehan  [G]",
+            "Production Company(s)": "Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Cavalcade_(1933_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/It_Happened_One_Night",
+            "Film": "It Happened One Night  [I]",
+            "Producer(s)": "Harry Cohn & Frank Capra",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/It_Happened_One_Night",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Mutiny_on_the_Bounty_(1935_film)",
+            "Film": "Mutiny on the Bounty  [J]",
+            "Producer(s)": "Irving Thalberg , Albert Lewin",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Great_Ziegfeld",
+            "Film": "The Great Ziegfeld",
+            "Producer(s)": "Hunt Stromberg",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Great_Ziegfeld",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Life_of_Emile_Zola",
+            "Film": "The Life of Emile Zola",
+            "Producer(s)": "Henry Blanke",
+            "Production Company(s)": "Warner Bros.",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Life_of_Emile_Zola",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/You_Can%2527t_Take_It_With_You_(film)",
+            "Film": "You Can't Take It With You",
+            "Producer(s)": "Frank Capra",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/You_Can%27t_Take_It_With_You_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Gone_with_the_Wind_(film)",
+            "Film": "Gone with the Wind",
+            "Producer(s)": "David O. Selznick",
+            "Production Company(s)": "Selznick International, Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Rebecca_(1940_film)",
+            "Film": "Rebecca",
+            "Producer(s)": "David O. Selznick",
+            "Production Company(s)": "Selznick International, United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Rebecca_(1940_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/How_Green_Was_My_Valley_(film)",
+            "Film": "How Green Was My Valley",
+            "Producer(s)": "Darryl F. Zanuck",
+            "Production Company(s)": "20th Century Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/How_Green_Was_My_Valley_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Mrs._Miniver_(film)",
+            "Film": "Mrs. Miniver",
+            "Producer(s)": "Sidney Franklin",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Mrs._Miniver_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Casablanca_(film)",
+            "Film": "Casablanca",
+            "Producer(s)": "Hal B. Wallis",
+            "Production Company(s)": "Warner Bros.",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Casablanca_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Going_My_Way",
+            "Film": "Going My Way",
+            "Producer(s)": "Leo McCarey",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Going_My_Way",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Lost_Weekend_(film)",
+            "Film": "The Lost Weekend",
+            "Producer(s)": "Charles Brackett",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Lost_Weekend_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Best_Years_of_Our_Lives",
+            "Film": "The Best Years of Our Lives",
+            "Producer(s)": "Samuel Goldwyn",
+            "Production Company(s)": "RKO Radio",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Gentleman%2527s_Agreement",
+            "Film": "Gentleman's Agreement",
+            "Producer(s)": "Darryl F. Zanuck",
+            "Production Company(s)": "20th Century Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Gentleman%27s_Agreement",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Hamlet_(1948_film)",
+            "Film": "Hamlet",
+            "Producer(s)": "Laurence Olivier",
+            "Production Company(s)": "Two Cities Films",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Hamlet_(1948_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/All_the_King%2527s_Men_(1949_film)",
+            "Film": "All the King's Men",
+            "Producer(s)": "Robert Rossen",
+            "Production Company(s)": "Rossen, Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/All_the_King%27s_Men_(1949_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/All_About_Eve",
+            "Film": "All About Eve",
+            "Producer(s)": "Darryl F. Zanuck",
+            "Production Company(s)": "20th Century Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/All_About_Eve",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/An_American_in_Paris_(film)",
+            "Film": "An American in Paris",
+            "Producer(s)": "Arthur Freed",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/An_American_in_Paris_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Greatest_Show_on_Earth",
+            "Film": "The Greatest Show on Earth",
+            "Producer(s)": "Cecil B. DeMille",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/From_Here_to_Eternity",
+            "Film": "From Here to Eternity",
+            "Producer(s)": "Buddy Adler",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/From_Here_to_Eternity",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/On_the_Waterfront",
+            "Film": "On the Waterfront",
+            "Producer(s)": "Sam Spiegel  [N]",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/On_the_Waterfront",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Marty_(film)",
+            "Film": "Marty",
+            "Producer(s)": "Harold Hecht",
+            "Production Company(s)": "United Artists, Steven Productions, Hecht-Lancaster Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Marty_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Around_the_World_in_80_Days_(1956_film)",
+            "Film": "Around the World in 80 Days",
+            "Producer(s)": "Michael Todd",
+            "Production Company(s)": "United Artists, Michael Todd Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(1956_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Bridge_on_the_River_Kwai",
+            "Film": "The Bridge on the River Kwai",
+            "Producer(s)": "Sam Spiegel",
+            "Production Company(s)": "Columbia, Horizon Pictures",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Bridge_on_the_River_Kwai",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Gigi_(1958_film)",
+            "Film": "Gigi",
+            "Producer(s)": "Arthur Freed",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Gigi_(1958_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Ben-Hur_(1959_film)",
+            "Film": "Ben-Hur",
+            "Producer(s)": "Sam Zimbalist",
+            "Production Company(s)": "Metro-Goldwyn-Mayer",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Ben-Hur_(1959_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Apartment",
+            "Film": "The Apartment",
+            "Producer(s)": "Billy Wilder",
+            "Production Company(s)": "United Artists, The Mirisch Company",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Apartment",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/West_Side_Story_(film)",
+            "Film": "West Side Story",
+            "Producer(s)": "Robert Wise",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/West_Side_Story_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Lawrence_of_Arabia_(film)",
+            "Film": "Lawrence of Arabia",
+            "Producer(s)": "Sam Spiegel",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Tom_Jones_(1963_film)",
+            "Film": "Tom Jones",
+            "Producer(s)": "Tony Richardson",
+            "Production Company(s)": "United Artists, Woodfall Films",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Tom_Jones_(1963_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/My_Fair_Lady_(film)",
+            "Film": "My Fair Lady",
+            "Producer(s)": "Jack L. Warner",
+            "Production Company(s)": "Warner Bros.",
+            "Wiki URL": "http://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Sound_of_Music_(film)",
+            "Film": "The Sound of Music",
+            "Producer(s)": "Robert Wise",
+            "Production Company(s)": "20th Century Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/A_Man_for_All_Seasons_(1966_film)",
+            "Film": "A Man for All Seasons",
+            "Producer(s)": "Fred Zinnemann",
+            "Production Company(s)": "Columbia, Highland Films",
+            "Wiki URL": "http://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/In_the_Heat_of_the_Night_(film)",
+            "Film": "In the Heat of the Night",
+            "Producer(s)": "Walter Mirisch",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/In_the_Heat_of_the_Night_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Oliver!_(film)",
+            "Film": "Oliver!",
+            "Producer(s)": "John Woolf",
+            "Production Company(s)": "Columbia, Romulus Films, Warwick Film Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Oliver!_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Midnight_Cowboy",
+            "Film": "Midnight Cowboy",
+            "Producer(s)": "Jerome Hellman",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Midnight_Cowboy",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Patton_(film)",
+            "Film": "Patton",
+            "Producer(s)": "Frank McCarthy",
+            "Production Company(s)": "20th Century Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Patton_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_French_Connection_(film)",
+            "Film": "The French Connection",
+            "Producer(s)": "Philip D'Antoni",
+            "Production Company(s)": "20th Century Fox",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_French_Connection_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Godfather",
+            "Film": "The Godfather",
+            "Producer(s)": "Albert S. Ruddy",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Godfather",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Sting",
+            "Film": "The Sting",
+            "Producer(s)": "Tony Bill , Michael Phillips , Julia Phillips",
+            "Production Company(s)": "Universal",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Sting",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Godfather_Part_II",
+            "Film": "The Godfather Part II  [O]",
+            "Producer(s)": "Francis Ford Coppola , Gray Frederickson , Fred Roos",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Godfather_Part_II",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/One_Flew_Over_the_Cuckoo%2527s_Nest_(film)",
+            "Film": "One Flew Over the Cuckoo's Nest",
+            "Producer(s)": "Saul Zaentz [N] , Michael Douglas",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Rocky",
+            "Film": "Rocky",
+            "Producer(s)": "Irwin Winkler , Robert Chartoff",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Rocky",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Annie_Hall",
+            "Film": "Annie Hall",
+            "Producer(s)": "Charles H. Joffe",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Annie_Hall",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Deer_Hunter",
+            "Film": "The Deer Hunter",
+            "Producer(s)": "Barry Spikings , Michael Deeley , Michael Cimino , John Peverall",
+            "Production Company(s)": "Universal, EMI",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Deer_Hunter",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Kramer_vs._Kramer",
+            "Film": "Kramer vs. Kramer",
+            "Producer(s)": "Stanley R. Jaffe",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Ordinary_People",
+            "Film": "Ordinary People",
+            "Producer(s)": "Ronald L. Schwary",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Ordinary_People",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Chariots_of_Fire",
+            "Film": "Chariots of Fire",
+            "Producer(s)": "David Puttnam",
+            "Production Company(s)": "Warner Bros., Enigma Film Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Chariots_of_Fire",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Gandhi_(film)",
+            "Film": "Gandhi",
+            "Producer(s)": "Richard Attenborough",
+            "Production Company(s)": "Columbia",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Gandhi_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Terms_of_Endearment",
+            "Film": "Terms of Endearment",
+            "Producer(s)": "James L. Brooks",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Terms_of_Endearment",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Amadeus_(film)",
+            "Film": "Amadeus",
+            "Producer(s)": "Saul Zaentz",
+            "Production Company(s)": "Orion",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Amadeus_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Out_of_Africa_(film)",
+            "Film": "Out of Africa",
+            "Producer(s)": "Sydney Pollack",
+            "Production Company(s)": "Universal, Mirage Enterprises",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Platoon_(film)",
+            "Film": "Platoon",
+            "Producer(s)": "Arnold Kopelson",
+            "Production Company(s)": "Orion, Hemdale",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Platoon_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Last_Emperor",
+            "Film": "The Last Emperor [O]",
+            "Producer(s)": "Jeremy Thomas",
+            "Production Company(s)": "Columbia, Recorded Picture Company, Yanco Films, TAO Films, AAA, Soprofilms",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Last_Emperor",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Rain_Man",
+            "Film": "Rain Man",
+            "Producer(s)": "Mark Johnson",
+            "Production Company(s)": "United Artists",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Rain_Man",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Driving_Miss_Daisy",
+            "Film": "Driving Miss Daisy",
+            "Producer(s)": "Richard D. Zanuck , Lili Fini Zanuck",
+            "Production Company(s)": "Warner Bros.",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Driving_Miss_Daisy",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Dances_with_Wolves",
+            "Film": "Dances with Wolves",
+            "Producer(s)": "Jim Wilson and Kevin Costner",
+            "Production Company(s)": "Orion, TIG Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Dances_with_Wolves",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Silence_of_the_Lambs_(film)",
+            "Film": "The Silence of the Lambs",
+            "Producer(s)": "Edward Saxon , Kenneth Utt , and Ron Bozman",
+            "Production Company(s)": "Orion",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Unforgiven",
+            "Film": "Unforgiven",
+            "Producer(s)": "Clint Eastwood",
+            "Production Company(s)": "Warner Bros., Malpaso",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Unforgiven",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Schindler%2527s_List",
+            "Film": "Schindler's List",
+            "Producer(s)": "Steven Spielberg , Gerald R. Molen , and Branko Lustig",
+            "Production Company(s)": "Universal, Amblin Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Schindler%27s_List",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Forrest_Gump",
+            "Film": "Forrest Gump",
+            "Producer(s)": "Wendy Finerman , Steve Tisch , and Steve Starkey",
+            "Production Company(s)": "Paramount",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Forrest_Gump",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Braveheart",
+            "Film": "Braveheart",
+            "Producer(s)": "Mel Gibson , Alan Ladd, Jr. , and Bruce Davey",
+            "Production Company(s)": "Paramount, 20th Century Fox, Icon",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Braveheart",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_English_Patient_(film)",
+            "Film": "The English Patient",
+            "Producer(s)": "Saul Zaentz",
+            "Production Company(s)": "Miramax, Tiger Moth Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_English_Patient_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Titanic_(1997_film)",
+            "Film": "Titanic",
+            "Producer(s)": "James Cameron and Jon Landau",
+            "Production Company(s)": "Paramount, 20th Century Fox, Lightstorm Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Titanic_(1997_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Shakespeare_in_Love",
+            "Film": "Shakespeare in Love",
+            "Producer(s)": "David Parfitt , Donna Gigliotti , Harvey Weinstein , Edward Zwick , and Marc Norman",
+            "Production Company(s)": "Miramax, Universal, Bedford Falls Company",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Shakespeare_in_Love",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/American_Beauty_(1999_film)",
+            "Film": "American Beauty",
+            "Producer(s)": "Bruce Cohen and Dan Jinks",
+            "Production Company(s)": "DreamWorks, Jinks/Cohen Co.",
+            "Wiki URL": "http://en.wikipedia.org/wiki/American_Beauty_(1999_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Gladiator_(2000_film)",
+            "Film": "Gladiator",
+            "Producer(s)": "Douglas Wick , David Franzoni , and Branko Lustig",
+            "Production Company(s)": "DreamWorks, Universal, Scott Free Productions, Red Wagon Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/A_Beautiful_Mind_(film)",
+            "Film": "A Beautiful Mind",
+            "Producer(s)": "Brian Grazer and Ron Howard",
+            "Production Company(s)": "DreamWorks, Universal, Imagine Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Chicago_(2002_film)",
+            "Film": "Chicago",
+            "Producer(s)": "Martin Richards",
+            "Production Company(s)": "Miramax, Producer Circle Co., Storyline Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Chicago_(2002_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Lord_of_the_Rings:_The_Return_of_the_King",
+            "Film": "The Lord of the Rings: The Return of the King",
+            "Producer(s)": "Barrie M. Osborne , Peter Jackson , and Fran Walsh",
+            "Production Company(s)": "New Line Cinema, WingNut Films",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Million_Dollar_Baby",
+            "Film": "Million Dollar Baby",
+            "Producer(s)": "Clint Eastwood , Albert S. Ruddy , and Tom Rosenberg",
+            "Production Company(s)": "Warner Bros., Lakeshore Entertainment, Malpaso",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Million_Dollar_Baby",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Crash_(2004_film)",
+            "Film": "Crash",
+            "Producer(s)": "Paul Haggis and Cathy Schulman",
+            "Production Company(s)": "Lionsgate , BlackFriar's Bridge, Harris Company, ApolloProScreen",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Crash_(2004_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Departed",
+            "Film": "The Departed",
+            "Producer(s)": "Graham King",
+            "Production Company(s)": "Warner Bros., Plan B Pictures, Initial Entertainment Group, Vertigo Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Departed",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/No_Country_for_Old_Men_(film)",
+            "Film": "No Country for Old Men",
+            "Producer(s)": "Scott Rudin , Joel Coen, and Ethan Coen",
+            "Production Company(s)": "Paramount Vantage, Miramax, Mike Zoss Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Slumdog_Millionaire",
+            "Film": "Slumdog Millionaire [O]",
+            "Producer(s)": "Christian Colson",
+            "Production Company(s)": "Fox Searchlight, Warner Bros., Celador, Film4",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Slumdog_Millionaire",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Hurt_Locker",
+            "Film": "The Hurt Locker",
+            "Producer(s)": "Kathryn Bigelow , Mark Boal , Nicolas Chartier , and Greg Shapiro",
+            "Production Company(s)": "Summit Entertainment , Voltage Pictures , First Light Productions, Kingsgate Films",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Hurt_Locker",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_King%2527s_Speech",
+            "Film": "The King's Speech",
+            "Producer(s)": "Iain Canning , Emile Sherman, and Gareth Unwin",
+            "Production Company(s)": "The Weinstein Co., Momentum Pictures , UK Film Council , See-Saw Films , Bedlam Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_King%27s_Speech",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/The_Artist_(film)",
+            "Film": "The Artist",
+            "Producer(s)": "Thomas Langmann",
+            "Production Company(s)": "The Weinstein Co., Warner Bros., Entertainment Film Distributors , La Petite Reine, ARP S\u00e9lection, Studio 37, La Class Americane, France 3 Cinema , U Film , Jouror Productions, JD Prod, Wild Bunch",
+            "Wiki URL": "http://en.wikipedia.org/wiki/The_Artist_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Argo_(2012_film)",
+            "Film": "Argo",
+            "Producer(s)": "Grant Heslov , Ben Affleck , and George Clooney",
+            "Production Company(s)": "Warner Bros., GK Films, Smoke House Pictures",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Argo_(2012_film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/12_Years_a_Slave_(film)",
+            "Film": "12 Years a Slave",
+            "Producer(s)": "Brad Pitt , Dede Gardner , Jeremy Kleiner , Steve McQueen , and Anthony Katagas",
+            "Production Company(s)": "Fox Searchlight, Regency Enterprises , River Road Entertainment, Plan B Entertainment , New Regency, Film4 Productions",
+            "Wiki URL": "http://en.wikipedia.org/wiki/12_Years_a_Slave_(film)",
+            "Winner": true
+        },
+        {
+            "Detail URL": "http://oscars.yipitdata.com/films/Birdman_(film)",
+            "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "Producer(s)": "Alejandro G. I\u00f1\u00e1rritu , John Lesher and James W. Skotchdopole",
+            "Production Company(s)": "Fox Searchlight, Regency Enterprises, Worldview Entertainment",
+            "Wiki URL": "http://en.wikipedia.org/wiki/Birdman_(film)",
+            "Winner": true
+        }
+    ]
+}
